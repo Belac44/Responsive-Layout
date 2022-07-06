@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background: #23424A;
+    color: white;
+}
+.container {
+    width:50%;
+    padding:1.5em 2em;
+    max-width: 750px;
+}
+button {
+    width:25%;
+    border-radius: 100px;
+    background-color:#38CFD9;
+    color: #072A2D;
+    height: 5vh;
+
+}
+.container{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1rem;
+    line-height: 2.5rem;
+
+}
