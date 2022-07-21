@@ -125,6 +125,21 @@ header {
     height: 0;
     position: absolute;
 }
+.nav__item {
+    list-style-type: none;
+    padding:0.15em;
+    
+}
+.nav__item:hover,
+.nav__item:focus{
+    opacity: 0.75;
+}
+.nav__link {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
 
 .nav--visible {
     visibility: visible;
